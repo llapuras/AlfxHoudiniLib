@@ -18,4 +18,10 @@
 
 ![](https://raw.githubusercontent.com/llapuras/AlfxHoudiniLib/main/Practice/img/fallenpetals.gif)
 
+### book.hip
 
+![](https://raw.githubusercontent.com/llapuras/AlfxHoudiniLib/main/Practice/img/houdinibook.png)
+
+### melting.hip
+
+![](https://raw.githubusercontent.com/llapuras/AlfxHoudiniLib/main/Practice/img/popnetmelting.gif)
